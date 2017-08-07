@@ -81,7 +81,7 @@ h3 {
   font-size: 24px; }
 
 span, p {
-  font-family: 'Quattrocento', serif; }
+  font-family: 'Yantramanav', sans-serif; }
 
 .title-light {
   color: #51BEC8; }
@@ -180,7 +180,7 @@ nav {
     display: inline-block;
     margin: 15px; }
     nav a span {
-      font-family: 'Helvetica', sans-serif;
+      font-family: 'Yantramanav', sans-serif;
       font-weight: 400;
       color: #26335D;
       -webkit-transition: all 0.25s ease-in-out;
