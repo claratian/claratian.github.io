@@ -175,7 +175,9 @@ nav {
   flex-direction: row-reverse;
   z-index: 4; }
   nav .menu {
-    margin-right: 75px; }
+    margin-right: 75px; 
+    font-size: 14px;
+    }
   nav a {
     display: inline-block;
     margin: 15px; }
